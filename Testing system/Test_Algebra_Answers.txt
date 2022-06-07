@@ -1,0 +1,12 @@
+6
+27
+b2 - 4ac
+2
+75
+Yes
+2370
+Eureka
+1/3
+Module
+Argument
+Discharge
